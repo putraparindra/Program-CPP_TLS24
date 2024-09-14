@@ -1,5 +1,7 @@
 Nyquist Alfito Putra Parindra
 
+Program ini membantu penyelesaian operasi penjumlahan 2 matriks 2x2. Run program, lalu masukkan elemen masing-masing matriks A dan B untuk mencari hasil dari penjumlahan matriks A dan B. 
+
 3.1.1 DEKLARASI MATRIKS
 cpp
 int matriks_A[2][2], matriks_B[2][2], hasil[2][2];
